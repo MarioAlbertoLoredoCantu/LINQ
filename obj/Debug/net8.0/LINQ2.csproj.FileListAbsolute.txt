@@ -1,0 +1,14 @@
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\LINQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\LINQ2.AssemblyInfoInputs.cache
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\LINQ2.AssemblyInfo.cs
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\LINQ2.csproj.CoreCompileInputs.cache
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\bin\Debug\net8.0\LINQ2.exe
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\bin\Debug\net8.0\LINQ2.deps.json
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\bin\Debug\net8.0\LINQ2.runtimeconfig.json
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\bin\Debug\net8.0\LINQ2.dll
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\bin\Debug\net8.0\LINQ2.pdb
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\LINQ2.dll
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\refint\LINQ2.dll
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\LINQ2.pdb
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\LINQ2.genruntimeconfig.cache
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\ref\LINQ2.dll
