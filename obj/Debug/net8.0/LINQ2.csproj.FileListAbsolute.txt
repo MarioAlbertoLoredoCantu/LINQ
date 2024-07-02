@@ -12,3 +12,4 @@ C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Deb
 C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\LINQ2.pdb
 C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\LINQ2.genruntimeconfig.cache
 C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\ref\LINQ2.dll
+C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\LINQ\LINQ2\obj\Debug\net8.0\LINQ2.sourcelink.json
